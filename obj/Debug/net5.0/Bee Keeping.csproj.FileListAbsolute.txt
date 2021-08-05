@@ -1,0 +1,16 @@
+C:\Users\quida\OneDrive\SwinburneContent\Semester 2 CIV\Service Layer Programming\Week 1\Bee Keeping\bin\Debug\net5.0\Bee Keeping.exe
+C:\Users\quida\OneDrive\SwinburneContent\Semester 2 CIV\Service Layer Programming\Week 1\Bee Keeping\bin\Debug\net5.0\Bee Keeping.deps.json
+C:\Users\quida\OneDrive\SwinburneContent\Semester 2 CIV\Service Layer Programming\Week 1\Bee Keeping\bin\Debug\net5.0\Bee Keeping.runtimeconfig.json
+C:\Users\quida\OneDrive\SwinburneContent\Semester 2 CIV\Service Layer Programming\Week 1\Bee Keeping\bin\Debug\net5.0\Bee Keeping.runtimeconfig.dev.json
+C:\Users\quida\OneDrive\SwinburneContent\Semester 2 CIV\Service Layer Programming\Week 1\Bee Keeping\bin\Debug\net5.0\Bee Keeping.dll
+C:\Users\quida\OneDrive\SwinburneContent\Semester 2 CIV\Service Layer Programming\Week 1\Bee Keeping\bin\Debug\net5.0\ref\Bee Keeping.dll
+C:\Users\quida\OneDrive\SwinburneContent\Semester 2 CIV\Service Layer Programming\Week 1\Bee Keeping\bin\Debug\net5.0\Bee Keeping.pdb
+C:\Users\quida\OneDrive\SwinburneContent\Semester 2 CIV\Service Layer Programming\Week 1\Bee Keeping\obj\Debug\net5.0\Bee Keeping.csprojAssemblyReference.cache
+C:\Users\quida\OneDrive\SwinburneContent\Semester 2 CIV\Service Layer Programming\Week 1\Bee Keeping\obj\Debug\net5.0\Bee Keeping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quida\OneDrive\SwinburneContent\Semester 2 CIV\Service Layer Programming\Week 1\Bee Keeping\obj\Debug\net5.0\Bee Keeping.AssemblyInfoInputs.cache
+C:\Users\quida\OneDrive\SwinburneContent\Semester 2 CIV\Service Layer Programming\Week 1\Bee Keeping\obj\Debug\net5.0\Bee Keeping.AssemblyInfo.cs
+C:\Users\quida\OneDrive\SwinburneContent\Semester 2 CIV\Service Layer Programming\Week 1\Bee Keeping\obj\Debug\net5.0\Bee Keeping.csproj.CoreCompileInputs.cache
+C:\Users\quida\OneDrive\SwinburneContent\Semester 2 CIV\Service Layer Programming\Week 1\Bee Keeping\obj\Debug\net5.0\Bee Keeping.dll
+C:\Users\quida\OneDrive\SwinburneContent\Semester 2 CIV\Service Layer Programming\Week 1\Bee Keeping\obj\Debug\net5.0\ref\Bee Keeping.dll
+C:\Users\quida\OneDrive\SwinburneContent\Semester 2 CIV\Service Layer Programming\Week 1\Bee Keeping\obj\Debug\net5.0\Bee Keeping.pdb
+C:\Users\quida\OneDrive\SwinburneContent\Semester 2 CIV\Service Layer Programming\Week 1\Bee Keeping\obj\Debug\net5.0\Bee Keeping.genruntimeconfig.cache
